@@ -1,0 +1,64 @@
+.logoimg {
+  background-color: aqua;
+  margin-left: 600px;
+  margin-top: none;
+  height: 100px;
+  width: 150px;
+  margin-bottom: 1px;
+}
+.box {
+  border: 1px solid lightgrey;
+  height: 300px;
+  width: 300px;
+  margin-left: 500px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 16px;
+  padding-bottom: 25px;
+  border-radius: 5px;
+}
+
+.signin {
+  font-size: 25px;
+  height: 45px;
+  font-weight: 650;
+}
+
+.email {
+  font-size: 12px;
+  font-weight: 700;
+}
+.email-input {
+  border-radius: 5px;
+  width: 250px;
+  border: 1.5px solid black;
+  height: 23px;
+  margin-top: 9px;
+  margin-bottom: 9px;
+}
+.cont-btn {
+  border-radius: 5px;
+  width: 258px;
+  border: 1.5px solid black;
+  height: 27px;
+  margin-top: 9px;
+  margin-bottom: 9px;
+  background-color: rgb(228, 173, 22);
+}
+
+.tcdiv{
+    font-size: 12px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.needhelp{
+    margin-top: 18px;
+    color: blue;
+    font-size: 13px;
+}
+.newaccount{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    width: 258px;
+    padding: 5px;
+}

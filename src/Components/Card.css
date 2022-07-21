@@ -1,0 +1,44 @@
+.card-container{
+    border: 1px solid black;
+    /* height: 400px; */
+    width: 200px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.card-img{
+    height: 200px;
+    width: 200px;
+}
+.img-con{
+    width: 200px;
+   
+
+}
+.content-con{
+    height: 100px;
+    background-color: lightblue;
+    width: 200px;
+
+
+}
+.card-subdiv{
+    display: flex;
+    gap: 35px;
+    margin-top: 18px;
+}
+.card-btn{
+    margin-top: 8px;
+}
+.con-title{
+    text-align: center;
+    box-shadow: 5px 10px 20px gray inset;
+
+}
+.parent{
+    display: flex;
+    margin-left: 10px;
+    flex-wrap: wrap;
+}
+
+
+   
